@@ -24,7 +24,12 @@ namespace XMLWeather
         {
             try
             {
-                Form1.searchBox = Convert.ToString(searchBox);
+                Form1.searchBox = searchBox.Text;
+
+                Form1.days.Clear();
+
+                Form1.ExtractForecast();
+                Form1.ExtractCurrent();
 
                 date1.Text = Form1.days[1].date;
                 min1.Text = Form1.days[1].tempLow;
@@ -44,7 +49,7 @@ namespace XMLWeather
             }
             catch
             {
-                warningLabel.Text = "Invalid BIATCH";
+                warningLabel.Text = "Invalid";
             }
         }
 

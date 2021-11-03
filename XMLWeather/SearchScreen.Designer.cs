@@ -63,7 +63,7 @@ namespace XMLWeather
             this.searchButton.Name = "searchButton";
             this.searchButton.Size = new System.Drawing.Size(75, 23);
             this.searchButton.TabIndex = 1;
-            this.searchButton.Text = "button1";
+            this.searchButton.Text = "Search";
             this.searchButton.UseVisualStyleBackColor = true;
             this.searchButton.Click += new System.EventHandler(this.searchButton_Click);
             // 
@@ -193,12 +193,12 @@ namespace XMLWeather
             // 
             // warningLabel
             // 
-            this.warningLabel.BackColor = System.Drawing.Color.White;
+            this.warningLabel.BackColor = System.Drawing.Color.Transparent;
             this.warningLabel.ForeColor = System.Drawing.Color.Red;
-            this.warningLabel.Location = new System.Drawing.Point(92, 16);
+            this.warningLabel.Location = new System.Drawing.Point(114, 16);
             this.warningLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.warningLabel.Name = "warningLabel";
-            this.warningLabel.Size = new System.Drawing.Size(134, 18);
+            this.warningLabel.Size = new System.Drawing.Size(100, 18);
             this.warningLabel.TabIndex = 96;
             // 
             // menuLabel

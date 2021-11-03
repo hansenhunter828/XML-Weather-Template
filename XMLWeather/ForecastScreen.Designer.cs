@@ -81,7 +81,7 @@
             // 
             this.date2.AutoSize = true;
             this.date2.ForeColor = System.Drawing.Color.White;
-            this.date2.Location = new System.Drawing.Point(81, 62);
+            this.date2.Location = new System.Drawing.Point(81, 115);
             this.date2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.date2.Name = "date2";
             this.date2.Size = new System.Drawing.Size(38, 17);
@@ -92,7 +92,7 @@
             // 
             this.min2.BackColor = System.Drawing.Color.Transparent;
             this.min2.ForeColor = System.Drawing.Color.Cyan;
-            this.min2.Location = new System.Drawing.Point(273, 62);
+            this.min2.Location = new System.Drawing.Point(273, 115);
             this.min2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.min2.Name = "min2";
             this.min2.Size = new System.Drawing.Size(29, 16);
@@ -102,7 +102,7 @@
             // 
             this.max2.BackColor = System.Drawing.Color.Transparent;
             this.max2.ForeColor = System.Drawing.Color.Red;
-            this.max2.Location = new System.Drawing.Point(236, 62);
+            this.max2.Location = new System.Drawing.Point(236, 115);
             this.max2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.max2.Name = "max2";
             this.max2.Size = new System.Drawing.Size(29, 16);
@@ -163,7 +163,7 @@
             // 
             this.date4.AutoSize = true;
             this.date4.ForeColor = System.Drawing.Color.White;
-            this.date4.Location = new System.Drawing.Point(81, 164);
+            this.date4.Location = new System.Drawing.Point(81, 221);
             this.date4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.date4.Name = "date4";
             this.date4.Size = new System.Drawing.Size(38, 17);
@@ -174,7 +174,7 @@
             // 
             this.min4.BackColor = System.Drawing.Color.Transparent;
             this.min4.ForeColor = System.Drawing.Color.Cyan;
-            this.min4.Location = new System.Drawing.Point(273, 164);
+            this.min4.Location = new System.Drawing.Point(273, 221);
             this.min4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.min4.Name = "min4";
             this.min4.Size = new System.Drawing.Size(29, 16);
@@ -184,7 +184,7 @@
             // 
             this.max4.BackColor = System.Drawing.Color.Transparent;
             this.max4.ForeColor = System.Drawing.Color.Red;
-            this.max4.Location = new System.Drawing.Point(236, 164);
+            this.max4.Location = new System.Drawing.Point(236, 221);
             this.max4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.max4.Name = "max4";
             this.max4.Size = new System.Drawing.Size(29, 16);
@@ -194,7 +194,7 @@
             // 
             this.date3.AutoSize = true;
             this.date3.ForeColor = System.Drawing.Color.White;
-            this.date3.Location = new System.Drawing.Point(81, 115);
+            this.date3.Location = new System.Drawing.Point(81, 318);
             this.date3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.date3.Name = "date3";
             this.date3.Size = new System.Drawing.Size(38, 17);
@@ -205,7 +205,7 @@
             // 
             this.min3.BackColor = System.Drawing.Color.Transparent;
             this.min3.ForeColor = System.Drawing.Color.Cyan;
-            this.min3.Location = new System.Drawing.Point(273, 114);
+            this.min3.Location = new System.Drawing.Point(273, 317);
             this.min3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.min3.Name = "min3";
             this.min3.Size = new System.Drawing.Size(29, 16);
@@ -215,7 +215,7 @@
             // 
             this.max3.BackColor = System.Drawing.Color.Transparent;
             this.max3.ForeColor = System.Drawing.Color.Brown;
-            this.max3.Location = new System.Drawing.Point(236, 114);
+            this.max3.Location = new System.Drawing.Point(236, 317);
             this.max3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.max3.Name = "max3";
             this.max3.Size = new System.Drawing.Size(29, 16);

@@ -35,7 +35,7 @@ namespace XMLWeather
             }
             if(Form1.days[0].code >= 801 && Form1.days[0].code <= 804)
             {
-                this.BackColor = Color.DarkGray;
+                this.BackColor = Color.LightGray;
             }
             if (Form1.days[0].code >= 600 && Form1.days[0].code <= 622)
             {
